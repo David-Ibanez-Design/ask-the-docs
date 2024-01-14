@@ -29,6 +29,12 @@ After installing Python, clone this repository and install the necessary package
     pip install -r requirements.txt
     ```
 
+3. Copy the `.env.example` file and rename it `.env`. Add your OPEN AI API key to newly created `.env` file:
+
+    ```shell
+    # (required)
+    OPENAI_API_KEY=sk-******
+
 ## Running the Application
 
 To run the application with Streamlit, execute the following command from your terminal:
