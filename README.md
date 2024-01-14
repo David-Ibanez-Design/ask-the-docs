@@ -1,9 +1,9 @@
 
 # Description
 
-A self service app using streamlit and the code interpreter api to allows users to upload excel or csv files and perform data analysis on them (including the ability to create of charts) using LLM models.
+A self-service app using streamlit and the code interpreter API to allow users to upload Excel or CSV files and perform data analysis on them (including the ability to create charts) using LLM models.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/726hJ5ffhtY/0.jpg)](https://www.youtube.com/watch?v=726hJ5ffhtY)
+[![IMAGE ALT TEXT HERE]([https://img.youtube.com/vi/726hJ5ffhtY/0.jpg)](https://i.ibb.co/wChhn7P/ask-the-docs-thumb.png)](https://www.youtube.com/watch?v=726hJ5ffhtY)
 
 ![Screenshot 2024-01-14 at 10 47 43](https://github.com/David-Ibanez-Design/ask-the-docs/assets/14106170/7081e30d-5164-42f1-843d-52ddd4e647e1)
 
