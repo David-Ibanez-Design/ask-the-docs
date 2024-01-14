@@ -1,0 +1,13 @@
+# Logs
+logs
+*.log
+
+# Editor directories and files
+.env
+.DS_Store
+
+# pyenv
+.python-version
+
+# codebox
+.codebox

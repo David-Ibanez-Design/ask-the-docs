@@ -1,0 +1,4 @@
+codeinterpreterapi==0.1.15
+pandas==2.0.2
+python-dotenv==1.0.0
+streamlit==1.29.0
